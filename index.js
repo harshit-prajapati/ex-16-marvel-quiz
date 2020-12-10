@@ -36,7 +36,7 @@ switch(quizNo){
   break;
   //thorQuestions
   case 2: 
-  questions = [{question:'What year did the first Thor’s movie come out?',answer:'2011'},{question:'Which Actor Plays Thor?',answer:'Chris Hemsworth'},{question:'Where Is Thor From?',answer:'Asgard'},{question:'Who Is Thor\'s Sister?',answer:'Hela'},{question:'What Nickname Does Stark Give To Thor?',answer:'Point Break'},{question:'Who Controls The Bifrost?',answer:'Heimdall'},{question:'at Is Thor\'s Axe Called?',answer:'Stormbreaker'},{question:'On Which Planet Do We Find Hulk In Ragnarok?',answer:'Sakaar'},{question:'How Many Movies Has Jane Foster Appeared In?',answer:'Two'},{question:'What Does Thor Call Rocket?',answer:'Rabbit'}]
+  questions = [{question:'What year did the first Thor’s movie come out?',answer:'2011'},{question:'Which Actor Plays Thor?',answer:'Chris Hemsworth'},{question:'Where Is Thor From?',answer:'Asgard'},{question:'Who Is Thor\'s Sister?',answer:'Hela'},{question:'What Nickname Does Stark Give To Thor?',answer:'Point Break'},{question:'Who Controls The Bifrost?',answer:'Heimdall'},{question:'at Is Thor\'s Axe Called?',answer:'Stormbreaker'},{question:'On Which Planet Do We Find Hulk In Ragnarok?',answer:'Sakaar'},{question:'How Many Movies Has Jane Foster Appeared In?',answer:'Two'},{question:'What Does Thor call Rocket?',answer:'Rabbit'}]
   break;
   //marvelQuestions
   case 3:
