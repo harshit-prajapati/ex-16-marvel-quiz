@@ -184,7 +184,7 @@ switch (quizNo) {
 		];
 		break;
 	default:
-		console.log('Invalid Choice');
+		console.log('You chose to quit the quiz.');
 		process.exit(); // To terminate the program when user enters cancel
 }
 //High Scores
